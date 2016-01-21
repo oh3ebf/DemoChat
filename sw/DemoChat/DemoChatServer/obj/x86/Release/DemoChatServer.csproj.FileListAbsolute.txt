@@ -1,0 +1,9 @@
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\DemoChatServer.exe
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\DemoChatServer.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Release\DemoChatServer.exe
+M:\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Release\DemoChatServer.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\DemoChatLibrary.dll
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\Newtonsoft.Json.dll
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\DemoChatLibrary.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\Newtonsoft.Json.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Release\Newtonsoft.Json.xml

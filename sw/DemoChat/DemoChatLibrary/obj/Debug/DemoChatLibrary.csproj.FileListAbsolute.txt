@@ -1,0 +1,8 @@
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Debug\DemoChatLibrary.dll
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Debug\DemoChatLibrary.pdb
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Debug\Newtonsoft.Json.dll
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Debug\Newtonsoft.Json.pdb
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Debug\Newtonsoft.Json.xml
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\obj\Debug\DemoChatLibrary.csprojResolveAssemblyReference.cache
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\obj\Debug\DemoChatLibrary.dll
+M:\chat_demo\sw\DemoChat\DemoChatLibrary\obj\Debug\DemoChatLibrary.pdb

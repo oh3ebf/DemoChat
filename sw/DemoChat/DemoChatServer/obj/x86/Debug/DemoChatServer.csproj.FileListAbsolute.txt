@@ -1,0 +1,14 @@
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\DemoChatServer.exe
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\DemoChatServer.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Debug\DemoChatServer.exe
+M:\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Debug\DemoChatServer.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Debug\DemoChatServer.csprojResolveAssemblyReference.cache
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\DemoChatLibrary.dll
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\Newtonsoft.Json.dll
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\DemoChatLibrary.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\Newtonsoft.Json.pdb
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\Newtonsoft.Json.xml
+M:\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\DemoChatServer.exe.config
+M:\c#\chat_demo\sw\DemoChat\DemoChatServer\bin\Debug\DemoChatServer.exe.config
+M:\c#\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Debug\DemoChatServer.exe
+M:\c#\chat_demo\sw\DemoChat\DemoChatServer\obj\x86\Debug\DemoChatServer.pdb
