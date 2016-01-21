@@ -1,7 +1,0 @@
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Release\DemoChatLibrary.dll
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Release\DemoChatLibrary.pdb
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Release\Newtonsoft.Json.dll
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Release\Newtonsoft.Json.pdb
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\bin\Release\Newtonsoft.Json.xml
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\obj\Release\DemoChatLibrary.dll
-M:\chat_demo\sw\DemoChat\DemoChatLibrary\obj\Release\DemoChatLibrary.pdb
