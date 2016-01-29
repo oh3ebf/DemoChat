@@ -1,0 +1,36 @@
+Asennus ohje:
+
+Hae MySql community edition https://dev.mysql.com/downloads/mysql/5.5.html
+Todennäköisesti tarvitset 64bittisen version. Ota paketti joka käyttää msi installeria.
+
+Asenna paketti koneelle.
+Tiedostojen asennuksen jälkeen pitäisi automaattisesti aueta konfigurointi wizard.
+- valitse standard configuration ->
+- valitse täppä Include bin directory in PATH, anna service asetuksen olla. ->
+- anna root salasana. Käytä salasanaa kissa
+	Demo chat käyttää root käyttäjää. Jos asetat jonkin muun salasanan tai teet toisen käyttäjän 
+	joudut muuttamaan asetuksia DemoChatServer:in koodissa.
+- valitse seuraavassa näkymässä Execute, jolloin serveri konffautuu ja käynnistyy.
+
+Nyt voit kokeilla avata käynnistää valikosta MySQL Command Line Clientin. 
+Kirjautuminen pitäisi onnistua salanalla kissa, jokan annoit.
+
+chat demo kanta asennetaan seuraavasti:
+- Pura chat_demo.zip paketti haluaamaasi kansioon.
+- Avaa chat_demo\mysql kansio. Sieltä löytyy chat_demo.sql tiedosto.
+
+avaa cmd ja aja siellä komento:
+mysql -u root -p < "C:\chat_demo\mysql\chat_demo.sql"
+
+HUOM! vaihda sql tiedoston polku vastaamaan paikkaa johon paketin purit.
+
+Kanta on nyt asennettu ja sovellus lähtee käyntiin vakio asetuksilla.
+
+Solutionissa on kolme projektia. 
+- DemoChat on client 
+- DemoChatLibrary sisältää sovellusten yhteiset osat
+- DemoChatServer on palvelin prosessi joka käynnistetään ensimmäisenä.
+
+Client on viritetty käyttämään localhost kommunikaatioon. 
+Tätä voi halutessaan muuttaa DemoChat.cs tiedostossa.
+Serveri kuuntelee kaikkia interfaceja mitkä koneesta löytyy.
